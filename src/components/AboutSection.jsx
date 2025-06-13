@@ -8,7 +8,7 @@ const AboutSection = () => {
         <Col xs={12} md={6} className="mb-4 mb-md-0">
           <div className="about-img-wrapper text-center">
             <img
-              src="images/about.png"
+              src="/images/about.png"
               alt="Sobre mí"
               className="img-fluid rounded-circle shadow"
               style={{ maxWidth: "300px", border: "6px solid #fff" }}
