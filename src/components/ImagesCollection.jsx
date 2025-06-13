@@ -5,7 +5,7 @@ const ImagesCollection = () => {
   const [visibleCount, setVisibleCount] = useState(6);
 
   const imagesList = [...new Array(9)].map(
-    (number, index) => `/images/image-${index + 1}.jpg`
+    (number, index) => `${process.env.PUBLIC_URL}/images/image-${index + 1}.jpg`
   );
 
   const handleShowMore = (e) => {
