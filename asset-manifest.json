@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fermolArt_portfolio/static/css/main.6680daf7.css",
-    "main.js": "/fermolArt_portfolio/static/js/main.47c309b8.js",
+    "main.js": "/fermolArt_portfolio/static/js/main.54fcd974.js",
     "static/js/453.f6b78d8f.chunk.js": "/fermolArt_portfolio/static/js/453.f6b78d8f.chunk.js",
     "static/media/Forum-Regular.ttf": "/fermolArt_portfolio/static/media/Forum-Regular.6b8e836eb36b2f54db9a.ttf",
     "static/media/statue-1.jpg": "/fermolArt_portfolio/static/media/statue-1.2ba0245352620b04b244.jpg",
@@ -9,11 +9,11 @@
     "index.html": "/fermolArt_portfolio/index.html",
     "static/media/reshot-icon-right-arrow-UCA8NGYZDJ.svg": "/fermolArt_portfolio/static/media/reshot-icon-right-arrow-UCA8NGYZDJ.b7fd07edd5b4b07629f8185b7f841d04.svg",
     "main.6680daf7.css.map": "/fermolArt_portfolio/static/css/main.6680daf7.css.map",
-    "main.47c309b8.js.map": "/fermolArt_portfolio/static/js/main.47c309b8.js.map",
+    "main.54fcd974.js.map": "/fermolArt_portfolio/static/js/main.54fcd974.js.map",
     "453.f6b78d8f.chunk.js.map": "/fermolArt_portfolio/static/js/453.f6b78d8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6680daf7.css",
-    "static/js/main.47c309b8.js"
+    "static/js/main.54fcd974.js"
   ]
 }
